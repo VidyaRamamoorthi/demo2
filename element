@@ -1,0 +1,4 @@
+7. Common Troubleshooting
+Ensure your Gmail account is not locked or restricted.
+Ensure the EMAIL_PORT and EMAIL_USE_TLS settings are correct (for Gmail: port 587, TLS enabled).
+Avoid using your primary Gmail account. Instead, create a dedicated Gmail account for your application.
